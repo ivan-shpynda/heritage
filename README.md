@@ -7,3 +7,5 @@ His son, my grandfather Ivan, studied at the Greek-Catholic seminary in Przemyś
 Thinking about this, I feel the pages of history textbooks come alive, gaining depth and emotion. Abstract concepts like "resettlement" or "war" cease to be mere dry facts—they become personal stories, intertwined with my own life. I realize that behind every great historical event are the fates of ordinary people, like my great-grandfather or grandfather.
 
 My heritage is not just a memory of the past. It is a living bridge between generations, passing on values, traditions, and experiences. These are the stories that shape my identity and help me better understand myself. This awareness brings me a sense of connection to something greater—to my family, to history, to the culture of my people. It also makes me reflect on the legacy I will leave behind. What stories will my descendants tell? Ultimately, heritage is not only about what has been but also about what we create for the future. And this adds a special meaning to each of my days.
+
+[DEMO LINK](https://ivan-shpynda.github.io/heritage/)
